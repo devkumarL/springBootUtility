@@ -9,7 +9,7 @@
 	</parent>
 	<groupId>com.devkumar</groupId>
 	<artifactId>springBootUtility</artifactId>
-	<version>1.0.0</version>
+	<version>1.0.1-SNAPSHOT</version>
 	<name>demo</name>
 	<description>Demo project for Spring Boot</description>
 	<properties>
@@ -29,7 +29,7 @@
 		<connection>scm:git:git://github.com/dexecutor/dependent-tasks-executor.git</connection>
 		<developerConnection>scm:git:git@github.com:dexecutor/dexecutor.git</developerConnection>
 		<url>https://github.com/dexecutor/dependent-tasks-executor</url>
-		<tag>springBootUtility-1.0.0</tag>
+		<tag>HEAD</tag>
 	</scm>
 	<dependencies>
 		<dependency>
